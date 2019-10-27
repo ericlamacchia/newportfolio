@@ -1,0 +1,23 @@
+{
+  "name": "newportfolio",
+  "version": "1.0.0",
+  "description": "My portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericlamacchia/newportfolio.git"
+  },
+  "author": "Eric LaMacchia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericlamacchia/newportfolio/issues"
+  },
+  "homepage": "https://github.com/ericlamacchia/newportfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
